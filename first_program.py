@@ -69,6 +69,3 @@
 # print(a == 3 or b == 44 and c == 55)// true( one of statement is true)
 # print(a == 3 or (b == 44 and c == 55))//true
 
-
-#
-
